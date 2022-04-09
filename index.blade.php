@@ -379,4 +379,4 @@
         });
     });
 </script>
-@endsection
+@endsection 

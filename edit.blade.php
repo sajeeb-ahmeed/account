@@ -82,5 +82,9 @@
 
     {!! Form::close() !!}
 
-  </div><!-- /.modal-content -->
-</div><!-- /.modal-dialog -->
+  </div>
+  <!-- /.modal-content -->
+</div>
+<!-- /.modal-dialog -->
+
+<!-- part-2 pri~5pos98   -->
